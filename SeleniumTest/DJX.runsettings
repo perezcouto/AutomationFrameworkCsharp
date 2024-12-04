@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<!--General test execution variables-->
+		<Parameter name="browser" value="Chrome" />
+		<Parameter name="URL" value="https://qa.diversityjobs.com/main/static/signIn" />
+		<Parameter name="secondsTimeOut" value="33" />
+		<!--DJX test data-->
+		<Parameter name="ownerUser" value="qa_test01@circaworks.com" />
+		<Parameter name="difUser" value="qa_test310-Sub@circaworks.com" />
+		<Parameter name="regularUser" value="qa_test01@circaworks.com" />
+		<Parameter name="specialUser" value="qa_testJS02@circaworks.com" />
+		<Parameter name="subAccountUser" value="qa_test310@circaworks.com" />
+		<Parameter name="PwdUser" value="Iceman!123" />
+		<Parameter name="PwdSpecialUser" value="Iceman#12" />
+		<Parameter name="CX_searchContact" value="Sabina Hosafros" />
+		<Parameter name="CX_searchOrganization" value="OhioMeansJobs Fairfield County" />
+		<Parameter name="SingleJobPostingQty" value="1" />
+		<Parameter name="AddOnFeaturedQty" value="5" />
+		<Parameter name="CardHolder" value="steve martino" />
+		<Parameter name="CreditCardNumber" value="4111111111111111" />
+		<Parameter name="CVV" value="123" />
+		<Parameter name="Zip" value="54701" />
+		<Parameter name="Month" value="September" />
+		<Parameter name="Year" value="2028" />
+		<Parameter name="jobTitle" value="Automation Job Posting Test" />
+		<Parameter name="employer" value="36235" />
+		<Parameter name="jobType" value="Contract" />
+		<Parameter name="compDesc" value="Test Automation Company Description" />
+		<Parameter name="cat1" value="Computer and Information Research Scientists" />
+		<Parameter name="cat2" value="Software Quality Assurance Engineers and Testers" />
+		<Parameter name="state" value="New Mexico" />
+		<Parameter name="city" value="Albuquerque" />
+		<Parameter name="streetAddr" value="630 E Alameda St" />
+		<Parameter name="postalCode" value="87501" />
+		<Parameter name="jobDescription" value="This is a job posted by automated test" />
+		<Parameter name="contactName" value="Test Automation" />
+		<Parameter name="linkJobApplication" value="testing.test.com" />
+	</TestRunParameters>
+</RunSettings>

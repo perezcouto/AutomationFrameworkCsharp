@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<!--General test execution variables-->
+		<Parameter name="browser" value="Edge" />
+		<Parameter name="URL" value="https://test-oms-admin.circaworks.com/" />
+		<Parameter name="secondsTimeOut" value="33" />
+		<!--CX test data-->
+		<Parameter name="username" value="svc_oms_qa@circaworks.com" />
+		<Parameter name="password" value="cQOXYjaiijO8s8oJmZ4i" />
+		<Parameter name="name" value="Svc_ Oms_Qa" />
+	</TestRunParameters>
+</RunSettings>

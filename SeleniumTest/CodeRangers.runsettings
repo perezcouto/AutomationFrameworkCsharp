@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<!--General test execution variables-->
+		<Parameter name="browser" value="Chrome" />
+		<Parameter name="URL" value="https://qa-cx-portal.circaworks.com/" />
+		<Parameter name="secondsTimeOut" value="30" />
+		<!--CX test data-->
+		<Parameter name="ownerUser" value="recruiting@verizon.com" />
+		<Parameter name="adminUser" value="catherine.towne@verizon.com" />
+		<Parameter name="regularUser" value="vanessa.sabia@verizon.com" />
+	</TestRunParameters>
+</RunSettings>

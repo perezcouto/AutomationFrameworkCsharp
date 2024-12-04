@@ -1,0 +1,27 @@
+﻿Version control
+
+Fabian Ramos (v1.0.0 - Dec 28, 2023)
+
+First MVP (Minimum Viable Product) of Selenium Webdriver Framework, using NUnit.
+-Folder Structured ('Utils' folder contain driver, common methods).
+-Control interactions set (Click, SendKeys).
+-Browser actions (Navigate back, forward, refresh and get HTML title).
+-Execution report set in HTML ('Report' folder and files are created if it's first time running).
+
+Fabian Ramos (v1.0.1 - Jan 02, 2023)
+
+Data improvements and creation of positive/negative tests for login test scenarios.
+-Create test scripts for positive and negative test cases on Login webpage.
+-Control interactions set (WaitElementClickable, GetText).
+-Adding CX.runsettings file to read project data.
+-GenerateRandom.cs generates dynamic strings.
+
+Fabian Ramos (v1.0.2 - Jan 03, 2023)
+
+Adding categories and authors in HTML report.
+
+Fabian Ramos (v1.0.3 - Jan 04, 2023)
+
+Adding tests for 10659.
+-Create test clases for Outreach --> Search page.
+-Control interactions set (WaitElementClickable, GetURL).

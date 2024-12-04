@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\pages\\savejobspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\pages\\savejobspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\tests\\jobposttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\tests\\jobposttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\pages\\jobpostpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\pages\\jobpostpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\elements\\jobpostelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\elements\\jobpostelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\tests\\savejobstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\tests\\savejobstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\elements\\dashboardelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\elements\\dashboardelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\elements\\loginelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\elements\\loginelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\elements\\savejobselements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\elements\\savejobselements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\tests\\subaccountstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\tests\\subaccountstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\elements\\myjobselements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\elements\\myjobselements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\tests\\resumetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\tests\\resumetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\pages\\subaccountspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\pages\\subaccountspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\pages\\resumepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\pages\\resumepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\elements\\resumeelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\elements\\resumeelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\pages\\authorizeduserspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\pages\\authorizeduserspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|c:\\mitratechultimaversion29102024\\circa-dj-selenium-c\\seleniumtest\\djx\\tests\\authorizeduserstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E987BCA-2DC4-46C4-8B4F-0F7C08799150}|SeleniumTest.csproj|solutionrelative:djx\\tests\\authorizeduserstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginElements.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\LoginElements.cs",
+              "RelativeDocumentMoniker": "DJX\\Elements\\LoginElements.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\LoginElements.cs",
+              "RelativeToolTip": "DJX\\Elements\\LoginElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:55:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobPostTest.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\JobPostTest.cs",
+              "RelativeDocumentMoniker": "DJX\\Tests\\JobPostTest.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\JobPostTest.cs",
+              "RelativeToolTip": "DJX\\Tests\\JobPostTest.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAiwPkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:18:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveJobsTest.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\SaveJobsTest.cs",
+              "RelativeDocumentMoniker": "DJX\\Tests\\SaveJobsTest.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\SaveJobsTest.cs",
+              "RelativeToolTip": "DJX\\Tests\\SaveJobsTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:55:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveJobsPage.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\SaveJobsPage.cs",
+              "RelativeDocumentMoniker": "DJX\\Pages\\SaveJobsPage.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\SaveJobsPage.cs",
+              "RelativeToolTip": "DJX\\Pages\\SaveJobsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:43:52.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaveJobsElements.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\SaveJobsElements.cs",
+              "RelativeDocumentMoniker": "DJX\\Elements\\SaveJobsElements.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\SaveJobsElements.cs",
+              "RelativeToolTip": "DJX\\Elements\\SaveJobsElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:54:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPostElements.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\JobPostElements.cs",
+              "RelativeDocumentMoniker": "DJX\\Elements\\JobPostElements.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\JobPostElements.cs",
+              "RelativeToolTip": "DJX\\Elements\\JobPostElements.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv0MAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:05:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DJX.runsettings",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX.runsettings",
+              "RelativeDocumentMoniker": "DJX.runsettings",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX.runsettings",
+              "RelativeToolTip": "DJX.runsettings",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T04:21:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPostPage.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\JobPostPage.cs",
+              "RelativeDocumentMoniker": "DJX\\Pages\\JobPostPage.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\JobPostPage.cs",
+              "RelativeToolTip": "DJX\\Pages\\JobPostPage.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAuwIoBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:12:01.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoardElements.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\DashBoardElements.cs",
+              "RelativeDocumentMoniker": "DJX\\Elements\\DashBoardElements.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\DashBoardElements.cs",
+              "RelativeToolTip": "DJX\\Elements\\DashBoardElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:41:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubAccountsTest.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\SubAccountsTest.cs",
+              "RelativeDocumentMoniker": "DJX\\Tests\\SubAccountsTest.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\SubAccountsTest.cs",
+              "RelativeToolTip": "DJX\\Tests\\SubAccountsTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:18:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "DJX\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "DJX\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:12:19.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "DJX\\Tests\\LoginTest.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "DJX\\Tests\\LoginTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:18:12.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyJobsElements.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\MyJobsElements.cs",
+              "RelativeDocumentMoniker": "DJX\\Elements\\MyJobsElements.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\MyJobsElements.cs",
+              "RelativeToolTip": "DJX\\Elements\\MyJobsElements.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:28:16.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResumeTest.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\ResumeTest.cs",
+              "RelativeDocumentMoniker": "DJX\\Tests\\ResumeTest.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\ResumeTest.cs",
+              "RelativeToolTip": "DJX\\Tests\\ResumeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:18:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubAccountsPage.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\SubAccountsPage.cs",
+              "RelativeDocumentMoniker": "DJX\\Pages\\SubAccountsPage.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\SubAccountsPage.cs",
+              "RelativeToolTip": "DJX\\Pages\\SubAccountsPage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwGUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:12:34.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResumePage.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\ResumePage.cs",
+              "RelativeDocumentMoniker": "DJX\\Pages\\ResumePage.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\ResumePage.cs",
+              "RelativeToolTip": "DJX\\Pages\\ResumePage.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:12:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResumeElements.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\ResumeElements.cs",
+              "RelativeDocumentMoniker": "DJX\\Elements\\ResumeElements.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Elements\\ResumeElements.cs",
+              "RelativeToolTip": "DJX\\Elements\\ResumeElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:53:22.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorizedUsersPage.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\AuthorizedUsersPage.cs",
+              "RelativeDocumentMoniker": "DJX\\Pages\\AuthorizedUsersPage.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Pages\\AuthorizedUsersPage.cs",
+              "RelativeToolTip": "DJX\\Pages\\AuthorizedUsersPage.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwGEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:11:53.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthorizedUsersTest.cs",
+              "DocumentMoniker": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\AuthorizedUsersTest.cs",
+              "RelativeDocumentMoniker": "DJX\\Tests\\AuthorizedUsersTest.cs",
+              "ToolTip": "C:\\MitratechUltimaVersion29102024\\Circa-DJ-Selenium-C\\SeleniumTest\\DJX\\Tests\\AuthorizedUsersTest.cs",
+              "RelativeToolTip": "DJX\\Tests\\AuthorizedUsersTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:17:54.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

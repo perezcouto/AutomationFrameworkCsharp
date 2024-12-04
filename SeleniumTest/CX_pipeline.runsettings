@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<!--General test execution variables-->
+		<Parameter name="browser" value="CHROME" />
+		<Parameter name="URL" value="https://qa-cx-portal.circaworks.com/" />
+		<Parameter name="secondsTimeOut" value="60" />
+		<!--CX test data-->
+		<Parameter name="ownerUser" value="recruiting@verizon.com" />
+		<Parameter name="adminUser" value="rafael.soto@verizon.com" />
+		<Parameter name="regularUser" value="arline.holliday@verizon.com" />
+
+		<Parameter name="CX_searchContact" value="Sabina Hosafros" />
+		<Parameter name="CX_searchOrganization" value="OhioMeansJobs Fairfield County" />
+	</TestRunParameters>
+</RunSettings>
